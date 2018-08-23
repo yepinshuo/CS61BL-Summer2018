@@ -1,0 +1,3 @@
+We have finished before the due day but we could not pass all the test cases until the due date. We finally solve the problem today.
+
+we are struggling on figuring out what was the problem of shortest path. It turned out we messed up with the vertical and horizontal boolean value. The order was wrong, and we fixed it until today. We would like to give ourselves more time to finish the project...I don't know if this is enough long...
